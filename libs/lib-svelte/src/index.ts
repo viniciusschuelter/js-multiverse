@@ -1,0 +1,1 @@
+export { default as LibSvelte } from './lib-svelte.svelte';
